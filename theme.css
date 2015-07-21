@@ -1,0 +1,51 @@
+html {
+	font-family: didot;
+	background-color: #14A3DC;
+	color: rgba(0,0,0,0.6);
+text-shadow: 2px 8px 6px rgba(0,0,0,0.2),
+                 0px -5px 35px rgba(255,255,255,0.3);
+}
+
+main {
+	background-image: url("hexagons.png");
+	width: 1000px;
+	height: 1000px;
+	background-repeat: no-repeat; 
+	margin-left: auto;
+	margin-right: auto;
+	display: inline-block;
+}
+
+header h1 {
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	font-size: 75px;
+	color: #FEA520;
+	border-bottom: 3px solid #595952;
+
+}
+
+body {
+	width: 500px;
+	height: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+
+}
+
+body form{
+	float: left;
+}
+
+form h2{
+	color: #FEA520;
+}
+
+#1 {
+	margin-left: auto;
+	margin-right: auto;
+
+	padding-left: 50px;
+}
